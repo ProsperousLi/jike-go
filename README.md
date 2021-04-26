@@ -20,6 +20,8 @@ go进阶训练营1期-作业-极客时间
 3.内存模型  
 4.COW ：copy on write  
 5.store buffer  
+6.automic.value 无锁访问共享内存
+7.源码errorgroup sync
 
 ## 第三章作业
 
