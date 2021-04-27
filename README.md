@@ -20,11 +20,15 @@ go进阶训练营1期-作业-极客时间
 3.内存模型  
 4.COW ：copy on write  
 5.store buffer  
-6.automic.value 无锁访问共享内存
-7.源码errorgroup sync
+6.automic.value 无锁访问共享内存  
+7.源码errorgroup sync  
 
 ## 第三章作业
 
 问：如何做一个应用的生命周期的管理？（errorgroup、wiatgroup；参考 https://github.com/go-kratos/kratos ）
 
-答：TODO
+答：TODO  
+
+问：基于 errgroup 实现一个 http server 的启动和关闭 ，以及 linux signal 信号的注册和处理，要保证能够一个退出，全部注销退出  
+
+答： TODO  
