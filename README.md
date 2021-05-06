@@ -29,6 +29,7 @@ go进阶训练营1期-作业-极客时间
 问：如何做一个应用的生命周期的管理？（errorgroup、wiatgroup；参考 https://github.com/go-kratos/kratos ）
 
 答：TODO  
+作业地址：https://github.com/ProsperousLi/jike-go/tree/main/week3  
 
 问：基于 errgroup 实现一个 http server 的启动和关闭 ，以及 linux signal 信号的注册和处理，要保证能够一个退出，全部注销退出  
 
