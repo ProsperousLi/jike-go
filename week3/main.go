@@ -7,4 +7,11 @@ import (
 )
 
 func main() {
+	// start some goroutine
+
+	// use errgroup with context
+
+	// add signal interrupt operation
+
+	// testing
 }
