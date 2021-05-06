@@ -37,5 +37,6 @@ go进阶训练营1期-作业-极客时间
 
 ## 第四周总结  
 1. 工程目录框架：  
-2. 
+2. grpc 大一统。 grp的TCP单线多路复用；头压缩，protobuf数据格式；
+3. api 设计的向下兼容性；错误码的定义（大错误码+小错误信息）；参考 Google API Design Guide (谷歌API设计指南)；方法结构体字段部分更新 FieldMask
 
