@@ -33,7 +33,7 @@ go进阶训练营1期-作业-极客时间
 
 问：基于 errgroup 实现一个 http server 的启动和关闭 ，以及 linux signal 信号的注册和处理，要保证能够一个退出，全部注销退出  
 
-答： TODO  
+答： https://github.com/ProsperousLi/jike-go/tree/main/week3  
 
 ## 第四周总结  
 1. 工程目录框架：  
