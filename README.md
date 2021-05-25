@@ -59,6 +59,11 @@ go进阶训练营1期-作业-极客时间
         Gutter限流：以redis为例，某个redis触发熔断时，将多余的请求转发到其他小（小集群）redis，让小redis来处理。（双熔断，小redis触发熔断，流量会写回原来的redis）  
         移动端限流：例如双11，用户积极尝试不可达服务。限制请求的频次
 
+## 第六周总结
+
+评论系统设计
+1. kafaka 削峰  
+2. kafaka 某个partition因为热点事件，导致partition成为热点，如何解决？  
 
 # reference  
 引用的阅读和总结  
