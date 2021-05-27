@@ -1,4 +1,8 @@
 # jike-go
+
+"我可以写代码一整天"  
+![image](https://github.com/ProsperousLi/jike-go/blob/main/docs/u%3D787858893%2C1297713883%26fm%3D26%26gp%3D0.png)
+
 go进阶训练营1期-作业-极客时间
 
 ## 第一周总结
