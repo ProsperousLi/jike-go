@@ -79,3 +79,4 @@ go进阶训练营1期-作业-极客时间
 3. [美团发号器：Leaf：美团分布式ID生成服务开源](https://tech.meituan.com/2019/03/07/open-source-project-leaf.html)
 4. 框架的使用：社区要活跃；一定要规范。  
 5. [go mod 之痛](https://xargin.com/go-mod-hurt-gophers/)
+6. [DDD 实践手册(番外篇: 事件风暴-概念)](https://zhuanlan.zhihu.com/p/110979132)
