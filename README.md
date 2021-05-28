@@ -75,4 +75,4 @@ go进阶训练营1期-作业-极客时间
 引用的阅读和总结  
 
 1. [Google API设计指南](https://www.bookstack.cn/read/API-design-guide/API-design-guide-README.md)
-2. 为什么像王者荣耀这样的游戏Server不愿意使用微服务？(https://blog.csdn.net/github_shequ/article/details/109302632)
+2. [为什么像王者荣耀这样的游戏Server不愿意使用微服务？](https://blog.csdn.net/github_shequ/article/details/109302632)
