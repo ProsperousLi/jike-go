@@ -77,3 +77,4 @@ go进阶训练营1期-作业-极客时间
 1. [Google API设计指南](https://www.bookstack.cn/read/API-design-guide/API-design-guide-README.md)
 2. [为什么像王者荣耀这样的游戏Server不愿意使用微服务？](https://blog.csdn.net/github_shequ/article/details/109302632)
 3. [美团发号器：Leaf：美团分布式ID生成服务开源](https://tech.meituan.com/2019/03/07/open-source-project-leaf.html)
+4. 框架的使用：社区要活跃；一定要规范。  
