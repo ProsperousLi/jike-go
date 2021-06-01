@@ -73,6 +73,7 @@ go进阶训练营1期-作业-极客时间
            （2） 二级节点：二级节点查询一级节点的mysql，用户挂载在二级节点查询数据。 1w用户 10个二级节点 1个一级节点，对于mysql来说只被查询了10次，每个二级节点被查询1000次，这样查询都被归并在二级节点，配合单飞解决缓存穿透的问题。
 # reference  
 引用的阅读和总结  
+
 [答疑文档以及reference](https://shimo.im/docs/JcrTccXkKjJvJdjJ/read)  
 
 1. [Google API设计指南](https://www.bookstack.cn/read/API-design-guide/API-design-guide-README.md)
