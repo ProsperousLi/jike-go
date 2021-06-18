@@ -124,3 +124,4 @@ go进阶训练营1期-作业-极客时间
 5. [go mod 之痛](https://xargin.com/go-mod-hurt-gophers/)
 6. [DDD 实践手册(番外篇: 事件风暴-概念)](https://zhuanlan.zhihu.com/p/110979132)
 7. [Golang中的nil，没有人比我更懂nil！](https://zhuanlan.zhihu.com/p/151140497)  
+8. [为什么实际开发中不使用外键?](https://blog.csdn.net/yxz8102/article/details/107303975)
