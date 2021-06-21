@@ -112,6 +112,8 @@ go进阶训练营1期-作业-极客时间
 2、写入一定量的 kv 数据, 根据数据大小 1w-50w 自己评估, 结合写入前后的 info memory 信息  , 分析上述不同 value 大小下，平均每个 key 的占用内存空间。  
 作业地址：https://github.com/ProsperousLi/jike-go/tree/main/week8
 
+## 第十周总结
+1、日志规范遵循：[Otel规范](https://gocn.vip/topics/10156)。    
 # reference  
 引用的阅读和总结  
 
