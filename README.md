@@ -112,10 +112,16 @@ go进阶训练营1期-作业-极客时间
 2、写入一定量的 kv 数据, 根据数据大小 1w-50w 自己评估, 结合写入前后的 info memory 信息  , 分析上述不同 value 大小下，平均每个 key 的占用内存空间。  
 作业地址：https://github.com/ProsperousLi/jike-go/tree/main/week8
 
+## 第九周作业
+1、总结几种 socket 粘包的解包方式: fix length/delimiter based/length field based frame decoder。尝试举例其应用  
+2、实现一个从 socket connection 中解码出 goim 协议的解码器。  
+作业地址：https://github.com/ProsperousLi/jike-go/tree/main/week9
+
 ## 第十周总结
 1、日志规范遵循：[Otel规范](https://gocn.vip/topics/10156)。    
-2、采样：一级采样： 动态采样，高qps低采样率，低qps高采样率。 二级采样：
-3、指标：黄金四维度：延迟、流量、错误和饱和度。
+2、采样：一级采样： 动态采样，高qps低采样率，低qps高采样率。 二级采样、底层采样。  
+3、指标：黄金四维度：延迟、流量、错误和饱和度。  
+
 # reference  
 引用的阅读和总结  
 
