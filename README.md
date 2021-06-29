@@ -123,6 +123,8 @@ go进阶训练营1期-作业-极客时间
 3、指标：黄金四维度：延迟、流量、错误和饱和度。  
 
 ## 第十一周总结
+
+TODO 了解http协议的头部字段的作用与CDN、DNS之间的关系  
 1、DNS  
 递归查询与迭代查询  
 ![image](https://github.com/ProsperousLi/jike-go/blob/main/docs/dns.png)  
