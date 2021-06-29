@@ -124,8 +124,10 @@ go进阶训练营1期-作业-极客时间
 
 ## 第十一周总结
 1、DNS  
+递归查询与迭代查询  
 ![image](https://github.com/ProsperousLi/jike-go/blob/main/docs/dns.png)  
 2、CDN  
+![image](https://github.com/ProsperousLi/jike-go/blob/main/docs/cdn.png)  
 3、多活架构  
 
 # reference  
