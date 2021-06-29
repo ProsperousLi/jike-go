@@ -124,6 +124,7 @@ go进阶训练营1期-作业-极客时间
 
 ## 第十一周总结
 1、DNS  
+![image](https://github.com/ProsperousLi/jike-go/blob/main/docs/dns.png)  
 2、CDN  
 3、多活架构  
 
