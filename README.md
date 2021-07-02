@@ -157,3 +157,4 @@ TODO 了解http协议的头部字段的作用与CDN、DNS之间的关系
 6. [DDD 实践手册(番外篇: 事件风暴-概念)](https://zhuanlan.zhihu.com/p/110979132)
 7. [Golang中的nil，没有人比我更懂nil！](https://zhuanlan.zhihu.com/p/151140497)  
 8. [为什么实际开发中不使用外键?](https://blog.csdn.net/yxz8102/article/details/107303975)
+9. [GO内存模型-happens before](https://tiancaiamao.gitbooks.io/go-internals/content/zh/10.1.html)
