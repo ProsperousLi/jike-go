@@ -131,6 +131,18 @@ TODO 了解http协议的头部字段的作用与CDN、DNS之间的关系
 2、CDN  
 ![image](https://github.com/ProsperousLi/jike-go/blob/main/docs/cdn.png)  
 3、多活架构  
+   #### 饿了么多活  
+   ![image](https://github.com/ProsperousLi/jike-go/blob/main/docs/eleme.png)  
+   #### 阿里多活  
+   ![image](https://github.com/ProsperousLi/jike-go/blob/main/docs/ali.png)  
+   #### 苏宁多活  
+   ![image](https://github.com/ProsperousLi/jike-go/blob/main/docs/suning.png)  
+   #### B站多活  
+   ![image](https://github.com/ProsperousLi/jike-go/blob/main/docs/bilibili.png)  
+   #### 微信多活  
+   ![image](https://github.com/ProsperousLi/jike-go/blob/main/docs/wechat.png)  
+   
+   
 
 # reference  
 引用的阅读和总结  
