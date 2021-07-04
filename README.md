@@ -112,6 +112,13 @@ go进阶训练营1期-作业-极客时间
 2、写入一定量的 kv 数据, 根据数据大小 1w-50w 自己评估, 结合写入前后的 info memory 信息  , 分析上述不同 value 大小下，平均每个 key 的占用内存空间。  
 作业地址：https://github.com/ProsperousLi/jike-go/tree/main/week8
 
+## 第九周总结
+1、（QUIC）http3 ，了解网络传输底层，计算机网络。  
+2、 TCP/IP 底层实现原理的细节。  linux 指令查看http的流量和抓包：nload, tcpflow, ss, netstat, nmon, top 等指令了解。  
+3、 grpc 的request和response的报文格式。    
+4、 https多路复用；http一个连接串行请求。  
+5、 IO 多路复用： 异步阻塞；select做同步检测fd有数据，返回回去用read去读取数据。  epoll  
+
 ## 第九周作业
 1、总结几种 socket 粘包的解包方式: fix length/delimiter based/length field based frame decoder。尝试举例其应用  
 2、实现一个从 socket connection 中解码出 goim 协议的解码器。  
