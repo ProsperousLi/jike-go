@@ -16,5 +16,5 @@
 源码：https://github.com/ProsperousLi/jike-go/blob/main/week8/main.go
 
 ![image](https://github.com/ProsperousLi/jike-go/blob/main/week8/redis-setKey1.png)
-![image](https://github.com/ProsperousLi/jike-go/blob/main/week8/redis-setKey2.png)
-![image](https://github.com/ProsperousLi/jike-go/blob/main/week8/redis-setKey3.png)
+![image](https://github.com/ProsperousLi/jike-go/blob/main/week8/redis-setkey2.png)
+![image](https://github.com/ProsperousLi/jike-go/blob/main/week8/redis-setkey3.png)
