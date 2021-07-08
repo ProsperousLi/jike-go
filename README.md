@@ -159,7 +159,7 @@ TODO 了解http协议的头部字段的作用与CDN、DNS之间的关系
 1. [Google API设计指南](https://www.bookstack.cn/read/API-design-guide/API-design-guide-README.md)
 2. [为什么像王者荣耀这样的游戏Server不愿意使用微服务？](https://blog.csdn.net/github_shequ/article/details/109302632)
 3. [美团发号器：Leaf：美团分布式ID生成服务开源](https://tech.meituan.com/2019/03/07/open-source-project-leaf.html)
-4. <font color=Crimson>框架的使用：社区要活跃；一定要规范。</font>  
+4. $\color{Red}框架的使用：社区要活跃；一定要规范。$
 5. [go mod 之痛](https://xargin.com/go-mod-hurt-gophers/)
 6. [DDD 实践手册(番外篇: 事件风暴-概念)](https://zhuanlan.zhihu.com/p/110979132)
 7. [Golang中的nil，没有人比我更懂nil！](https://zhuanlan.zhihu.com/p/151140497)  
