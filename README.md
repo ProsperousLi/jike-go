@@ -166,4 +166,4 @@ TODO 了解http协议的头部字段的作用与CDN、DNS之间的关系
 8. [为什么实际开发中不使用外键?](https://blog.csdn.net/yxz8102/article/details/107303975)
 9. [GO内存模型-happens before](https://tiancaiamao.gitbooks.io/go-internals/content/zh/10.1.html)
 10. [踩坑记：Go服务灵异panic](https://blog.csdn.net/felix021/article/details/107437976)
-11. [TODO yapi的使用](https://yapi.baidu.com/)
+11. [TODO yapi的使用](http://yapi.smart-xwork.cn/)
