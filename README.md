@@ -1,5 +1,9 @@
 # jike-go
 
+如果看到了，请给我个star（死皮赖脸的要）  
+![image](https://github.com/ProsperousLi/jike-go/blob/main/docs/pictures/php%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80.png)  
+
+
 "我可以写代码一整天"  
 ![image](https://github.com/ProsperousLi/jike-go/blob/main/docs/u%3D787858893%2C1297713883%26fm%3D26%26gp%3D0.png)
 
